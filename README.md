@@ -1,19 +1,34 @@
-# Neo Cripto - Projeto HTML
+NeoCripto – Guia de Criptomoedas
+Sobre
 
-Este é o meu projeto pessoal **Neo Cripto**, um guia interativo sobre criptomoedas para iniciantes.  
+NeoCripto é um site educativo sobre criptomoedas e finanças digitais, com explicações simples para iniciantes.
 
-## Sobre
-O projeto contém um arquivo HTML com informações, dicas e exemplos de como começar no mundo das criptomoedas.
+Funcionalidades
 
-## Como abrir
-1. Faça o download do repositório ou clone usando:
-2. Abra o arquivo `index.html` em qualquer navegador para ver o conteúdo.
+Cards com os 9 tópicos principais de cripto.
 
-## Conteúdo
-- `index.html` → Página principal do guia.
-- `css/` → Arquivos de estilo.
-- `js/` → Scripts (se houver).
+Modal “Ler Mais” para detalhes de cada tópico.
 
-## Contato
-Para dúvidas ou sugestões, entre em contato pelo meu perfil GitHub.
+Design responsivo e moderno.
 
+Ícones e animações interativas.
+
+Tecnologias
+
+HTML, CSS, JavaScript
+
+Font Awesome (ícones)
+
+Google Fonts (Orbitron, Poppins)
+
+Como usar
+
+Abra o arquivo index.html no navegador.
+
+Clique nos cards para ler mais sobre cada tópico.
+
+Contato
+
+Instagram: @NeoCripto
+
+Email: lkssilva789@gmail.com
